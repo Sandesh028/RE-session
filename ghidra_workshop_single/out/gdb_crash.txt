@@ -1,0 +1,8 @@
+[31m[1mpwndbg: [0m[31m[0m[91mloaded 147 pwndbg commands and 45 shell commands. Type [35mpwndbg [--shell | --all] [filter][0m[91m for a list.[0m
+[31m[1mpwndbg: [0m[31m[0m[91mcreated [35m$rebase[0m[91m, [35m$ida[0m[91m GDB functions (can be used with print/break)[0m
+warning: Error disabling address space randomization: Operation not permitted
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/lib/x86_64-linux-gnu/libthread_db.so.1".
+Usage: /root/workspace/ghidra_workshop_single/bin/vuln <input>
+[Inferior 1 (process 104) exited with code 01]
+No stack.
